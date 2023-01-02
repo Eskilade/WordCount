@@ -16,6 +16,10 @@ Before you start
 - We then review the pull requests.
 - After the pull requests are merged we verify that documentation updates itself.
 
+.. uml::
+
+   Alice -> Bob: Hi!
+   Alice <- Bob: How are you?
 
 Basic
 -----
